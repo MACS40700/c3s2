@@ -1,6 +1,6 @@
-Package: macs-ex
+Package: c3s2
 Type: Package
-Title: Data Visualization and Computing resources
+Title: Data Visualization and Computing Resources
 Version: 0.0.1
 Author: Jean Clipperton
 Maintainer: Jean Clipperton <clipperton@uchicago.edu>
