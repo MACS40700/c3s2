@@ -1,7 +1,7 @@
 Package: c3s2
 Type: Package
 Title: Data Visualization and Computing Resources
-Version: 0.0.1
+Version: 0.0.2
 Author: Jean Clipperton
 Maintainer: Jean Clipperton <clipperton@uchicago.edu>
 Description: Data and relevant files for courses at UChicago in Computational Social Science
